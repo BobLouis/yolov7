@@ -1,0 +1,8 @@
+train: ./data/train
+val: ./data/val
+
+# number of classes
+nc: 2
+
+# class names
+names: [ 'red_tomato', 'yellow_tomato' ]
